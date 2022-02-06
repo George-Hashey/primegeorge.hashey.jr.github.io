@@ -1,5 +1,5 @@
 body {
-  background-color: #0000ff;
+  background-color: #0000cd;
   font-family: Arial, Helvetica, san-serif;
   margin: 10% 20%;
 }
@@ -9,10 +9,19 @@ body {
   color: #ffffff;
 }
 
-.contact {
-  color: #FFA500;
+.contact  {
+  color: #ffff00;
+  border: 10px outset blue;   
+}
+.statement, .productioncontroller, .recruiter  {
+  color: ffffff;
+  
 }
 
-head {
-  color: #ffa500;
+.keyskills, .informationsecurity, .technicalmanager, .avionics {
+  color: #00ff00;
+}
+.education {
+  color:#ff0000;
+    border: 10px ridge;
 }
